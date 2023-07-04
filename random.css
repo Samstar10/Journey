@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.number{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+.my-btn{
+    padding: 10px 20px;
+    background-color: lightgreen;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+}
